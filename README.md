@@ -13,17 +13,17 @@ We share full details about our methodology [here](http://rungalileo.io/hallucin
 ## LLM Rankings for Q&A with RAG
 Task: A model that, when presented with a question, uses retrieved information from a given dataset, database, or set of documents to provide an accurate answer. This approach is akin to looking up information in a reference book or searching a database before responding.
 
-<img src="images/qa-with-rag.png">
+![LLM Rankings for QA with RAG](https://user-images.githubusercontent.com/138050654/283152708-7ef81e54-7b40-4f4d-b416-90c414f877bd.png)
 
 ## LLM Rankings for Q&A without RAG
 Task: A model that, when presented with a question, relies on the internal knowledge and understanding that the AI model has already acquired during its training. It generates answers based on patterns, facts, and relationships it has learned without referencing external sources of information.
 
-<img src="images/qa-without-rag.png">
+![LLM Rankings for QA without RAG](https://user-images.githubusercontent.com/138050654/283152214-e30b0b6c-1fa2-4484-88b2-5a554903bc93.png)
 
 ## LLM Rankings for Long-Form Text Generation
 Task: Using generative AI to create extensive and coherent pieces of text such as reports, articles, essays, or stories. For this use-case, AI models are trained on large datasets to understand context, maintain subject relevance, and mimic a natural writing style over longer passages.
 
-<img src="images/long-form-text-generation.png">
+![LLM ranking for long form text generation](https://user-images.githubusercontent.com/138050654/283153011-e4cb1107-7e61-4032-879c-3644819482d5.png)
 
 Note: Rankings were last updated on November 15, 2023.
 
@@ -35,7 +35,7 @@ ChainPoll, developed by Galileo Labs, is an innovative and cost-effective halluc
 
 Learn more about our experiment and results over [here](http://rungalileo.io/hallucinationindex).
 
-![chainpoll](https://github.com/rungalileo/hallucination-index/blob/8a2328f9531ba139f644493b9a84300151f139b1/images/chainpoll.png)
+![chainpoll metrics](https://user-images.githubusercontent.com/138050654/283151959-48d35b24-4bd3-4f2e-97b1-7ee811fa070e.png)
 
 ## Models evaluated
 
