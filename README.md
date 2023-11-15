@@ -35,7 +35,7 @@ ChainPoll, developed by Galileo Labs, is an innovative and cost-effective halluc
 
 Learn more about our experiment and results over [here](http://rungalileo.io/hallucinationindex).
 
-<img src="images/chainpoll.png">
+![chainpoll](https://github.com/rungalileo/hallucination-index/blob/8a2328f9531ba139f644493b9a84300151f139b1/images/chainpoll.png)
 
 ## Models evaluated
 
